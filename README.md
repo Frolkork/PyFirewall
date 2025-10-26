@@ -24,6 +24,6 @@ Possible improvements:
 A project idea by Az Frolkork,
 open to Free-Software colaboration!
 
-contact:
+contact
     emails: alisson.caldas.souza@gmail.com
             alisson.souza@estudante.iftm.edu.br
