@@ -1,7 +1,7 @@
 # PyFireWall-V
 
 pt-br
-### Um projeto de um FireWall escrito em Python usando machine Learion (ML) detecção de anomalias no trafego de pacotes e registro em logs.
+### Um projeto de um FireWall escrito em Python usando machine learing (ML) para detecção de anomalias no trafego de rede e registrar em logs.
 
 Possiveis melhorias:
   Automação de tomada de decisão,
@@ -13,7 +13,7 @@ Uma ideia de projeto de Az Frolkork,
 aberto a colaboração Free-Software!
 
 en
-### A firewall project written in Python using machine learning (ML) to detect packet traffic anomalies and log them.
+### A FireWall project written in Python using machine learning (ML) to detect anomalies in network traffic and record them in logs.
 
 Possible improvements:
   Automated decision-making,
