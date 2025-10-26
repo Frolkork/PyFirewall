@@ -1,7 +1,7 @@
 # PyFireWall-V
 
 pt-br
-### Um projeto de um FireWall escrito em Python usando machine learing (ML) para detecção de anomalias no trafego de rede e registrar em logs.
+### Um projeto de um FireWall escrito em Python usando machine learning (ML) para detecção de anomalias no trafego de rede e registrar em logs.
 
 Possiveis melhorias:
   Automação de tomada de decisão,
